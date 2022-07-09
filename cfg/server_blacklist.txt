@@ -1,0 +1,9 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"Qixalite Booking"
+		"date"		"1652187923"
+		"addr"		"34.92.120.101:27015"
+	}
+}
